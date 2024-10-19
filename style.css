@@ -1,0 +1,54 @@
+#ima{
+    height: 150px;
+}
+header{
+display: flex
+;justify-content: space-between;
+align-items: center;
+background-color: #8d6e63;
+
+}
+.lien{
+    padding-right: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.container img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.container{display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f4f1ea;
+    padding: 20px;
+    
+}
+
+main{
+    background-image: url('background-office-bg-changed\ \(1\).jpg');
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.card{
+    text-align: center;
+    background-color: #d7ccc8;
+    width: 25%;
+    height: 400px;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+#last{text-align: center
+;
+background-color: #efebe9;
+color: #53473e;
+}
+#last2{background-color: #8d6e63;
+text-align: center;
+color: #cfbfb8;}
